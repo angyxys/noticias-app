@@ -1,5 +1,5 @@
 # App de Noticias
 ### RN
-'''bash
+```bash
 yarn android
-'''
+```
